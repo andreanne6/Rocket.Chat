@@ -60,7 +60,7 @@ exclude:
 - /packages/rocketchat-issuelinks/.*
 - /packages/rocketchat-katex/.*
 - /packages/rocketchat-ldap/.*
-- /packages/rocketchat-livechat/.*
+- /packages/rocketchat-lib/.*
 - /packages/rocketchat-logger/.*
 - /packages/rocketchat-mailer/.*
 - /packages/rocketchat-mapview/.*
