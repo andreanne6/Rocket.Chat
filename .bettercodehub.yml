@@ -1,0 +1,11 @@
+exclude:
+- /.github/changelog.js
+- /.scripts/set-version.js
+- /.scripts/start.js
+- /.scripts/version.js
+- /.snapcraft/resources/initreplset.js
+component_depth: 1
+languages:
+- javascript
+- ruby
+- script
